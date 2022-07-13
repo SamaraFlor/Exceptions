@@ -2,6 +2,11 @@
 Exception java 
 Bootcamp Santander - Prof Camila
 
+
+
+
+Material para Leitura
+
 Exceção é um evento que interrompe o fluxo normal de processamento de uma classe.
 O uso correto de exceções torna o programa mais robusto e confiável.
 Com o tratamento de exceções, um programa pode continuar executando depois de lidar com um problema.
